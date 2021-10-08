@@ -1,0 +1,44 @@
+source,target,weight
+Data Science,Sci-kit Learn,1
+Data Science,Regression,1
+Data Science,Logistics Regression,1
+Data Science,Markov Chains,1
+Data Science,K Means,1
+Data Science,Pandas,1
+Data Science,Numpy ,1
+Data Science,Spark ,1
+Data Science,Scala & R,1
+Data Science,Data Bricks,1
+Operations Research ,Gurobi ,1
+Operations Research ,Demand Planning Models,1
+Operations Research ,Queying Theory,1
+Operations Research ,Predictive Analytics,1
+Finance,Forecasting & Budgets,1
+Finance,Capital Market Analysis,1
+Finance,Valuation Modeling,1
+Business Intellegence,Power BI ,1
+Business Intellegence,Board Analytics,1
+Business Intellegence,Tableau,1
+Software Engineering ,Leetcode,1
+Software Engineering ,Data Stuctures,1
+Software Engineering ,SOLID Princimple,1
+Software Engineering ,Gang of Four Desgin Patterns,1
+Software Engineering ,Linux,1
+Software Engineering ,GIT,1
+Software Engineering ,Agile,1
+Programming ,C#,1
+Programming ,"Javascript, CSS, Bootstrap",1
+Programming ,"Flask,Django,Node.js",1
+Programming ,SQL,1
+Cloud Solutions,Azure,1
+Cloud Solutions,AWS,1
+Cloud Solutions,GCP,1
+Cloud Solutions,Heroku,1
+Cloud Solutions,Docker,1
+Michael Spagnolo,Data Science,5
+Michael Spagnolo,Operations Research ,5
+Michael Spagnolo,Business Intellegence,5
+Michael Spagnolo,Software Engineering ,5
+Michael Spagnolo,Programming ,5
+Michael Spagnolo,Cloud Solutions,5
+Michael Spagnolo,Finance,5
